@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+h1{
+	text-align: center;
+}
+ol{
+	align-content: center;
+	font-style: italic;
+	color: dodgerblue;
+}
